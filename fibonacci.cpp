@@ -11,7 +11,7 @@ int main() {
         c = a + b;
         a = b;
         b = c;
-        cout<< c ;
+        cout<< c << " ";
     }
     return 0;
 } 
