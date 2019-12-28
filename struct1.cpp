@@ -24,7 +24,7 @@ int main(){
 
     // Take user input for book specification
     for(i=0; i<n; i++){
-        cout << endl << "Enter the detail of Book#" << i+1 << endl;
+        cout << endl << "Enter the detail of Book #" << i+1 << endl;
 
         cout << "Enter the Book Title : ";
         cin >> book.title;
